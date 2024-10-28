@@ -7,16 +7,7 @@ Created on Sat Jul 6 10:38:33 2024
 
 
 '''
-Project (individual):
-• 25% data preprocessing
-• 25% supervised analysis
-• 25% unsupervised analysis
-• 25% extra analysis (complex model / model not studied in
-class)
-* All 4 parts of the project must be completed
-❑ 10 minutes presentation + 5 min questions (July 17 & 18)
-❑ The notebook or python file must be sent before the
-presentation to lmelgar@faculty.ie.edu
+
 
 conda install -c conda-forge chap --yes
 conda install -c conda-forge geopandas --yes

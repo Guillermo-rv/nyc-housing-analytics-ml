@@ -197,8 +197,3 @@ Contributions are welcome! If you have suggestions or want to add new features, 
 This project is licensed under the [MIT License](LICENSE). Data sources belong to their respective owners (NYC Open Data, etc.) and may have separate usage terms.
 
 ---
-
-**Author**: [Your Name]  
-**Contact**: [your.email@example.com]  
-
-*Thank you for exploring NYC housing, census, and ZIP Code data!*

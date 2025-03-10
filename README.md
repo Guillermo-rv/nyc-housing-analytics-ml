@@ -1,5 +1,3 @@
-Below is an example **README** file in English that summarizes the NYC by ZIP Code analysis. You can adapt it as needed for your project repository.
-
 ---
 
 # NYC Housing & Census Analysis by ZIP Code

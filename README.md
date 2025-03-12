@@ -1,6 +1,6 @@
 
 ![Mapa de inversión NYC](nyc_investment_potential_heatmap.gif)
-
+![NYC Income by Zip Map](nyc_income_by_zip_map.html.gif)
 ---
 
 # NYC Housing & Census Analysis by ZIP Code

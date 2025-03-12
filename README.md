@@ -1,4 +1,5 @@
-![Mapa de inversión NYC](assets/nyc_investment_potential_heatmap.gif)
+
+![Mapa de inversión NYC](nyc_investment_potential_heatmap.gif)
 
 ---
 

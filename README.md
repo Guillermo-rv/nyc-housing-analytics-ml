@@ -183,10 +183,11 @@ This repository contains an exploratory data analysis and machine learning proje
 
 ## 9. Future Work
 
+
 - **Time-Series Analysis**: Investigate how completion dates correlate with changing neighborhood demographics.
 - **Detailed Crime Correlation**: More robust geospatial joins to measure if certain housing projects correlate with changes in crime rates.
 - **Deep-Dive into Neighborhoods**: Use the `NTA - Neighborhood Tabulation Area` or finer census tract merges for more granular analysis.
-
+- One idea worth exploring would be integrating **time-aware models** (e.g., Time Series Forecasting or Spatial-Temporal Graph Networks) to analyze how investment trends evolve and affect income or migration over time. 
 ---
 
 ## 10. Contributing
